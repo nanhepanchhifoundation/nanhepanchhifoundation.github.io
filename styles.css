@@ -32,10 +32,10 @@ body {
 
 #navigation-container {
     position: relative;
-    background-color: #200008;
+    background-color: #95314a;
     display: flex;
     flex-direction: row;
-		color: white;
+    color: white;
     justify-content: space-between;
 }
 .navigation-bar{
