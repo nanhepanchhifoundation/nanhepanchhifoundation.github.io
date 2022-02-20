@@ -46,6 +46,7 @@ body {
     display: flex;
     flex-direction: row;
     list-style-type: none;
+    padding: 0 2rem;
 }
 .navigation-bar img {height: 10vw;padding: 1em;}
 
