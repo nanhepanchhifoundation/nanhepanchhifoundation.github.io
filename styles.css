@@ -65,7 +65,7 @@ body { font-family: sans-serif; }
 }
 
 .gallery-cell {
-  height: 60vh;
+  height: 50vh;
   /* max-height: 40em; */
   /* margin-right: 10vw; */
   /* background: #8C8; */
@@ -96,8 +96,8 @@ margin:auto; margin:auto;
 
 .content-page{
 	height: -webkit-fill-available;
-	width: 80vw;
-	min-width: 20em;
+	width: 90vw;
+	min-width: 19em;
 	/* display: flex; */
 	/* align-items: center; */
 	padding:2em;
