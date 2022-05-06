@@ -4,7 +4,7 @@
 
 
 footer {
-  bottom: 0;
+  /* bottom: 0; */
   text-align: center;
   background-color: black;
   color: white;
@@ -32,7 +32,7 @@ body {
 
 .custom-navbar{
 	padding: 1em;
-	background-color: #a92f4e;
+	background-color: #aF2835;
 }
 
 .custom-nav-item {
@@ -96,12 +96,12 @@ margin:auto; margin:auto;
 
 .content-page{
 	height: -webkit-fill-available;
-	width: 80vw;
+	width: 90vw;
 	min-width: 19em;
 	/* display: flex; */
 	/* align-items: center; */
 	padding:2em;
-	box-shadow: 0 9px 0px 0px white, 0 -9px 0px 0px white, 12px 0 15px -4px rgba(31, 73, 125, 0.8), -12px 0 15px -4px rgba(31, 73, 125, 0.8);
+	box-shadow: 0 9px 0px 0px white, 0 -9px 0px 0px white, 12px 0 15px -4px rgb(31 73 125 / 30%), -12px 0 15px -4px rgb(31 73 125 / 30%);
 	/* flex-direction: row; */
 	margin: auto;
 }
@@ -109,7 +109,14 @@ margin:auto; margin:auto;
 
 .title{
 
-border-bottom: 1px solid black;
-
-padding-bottom: 0.2em;
-}
+  border-bottom: 1px solid black;
+  
+  padding-bottom: 0.2em;
+  margin-botom: 0.5em;}
+  
+  .subtitle{
+  
+  /* border-bottom: 1px solid black; */
+  
+  padding: 0.7em 0;
+  }
